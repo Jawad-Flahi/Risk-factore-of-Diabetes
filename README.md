@@ -1,1 +1,1 @@
-# Risk-factore-of-Diabetes
+# Risk-factors-of-Diabetes
