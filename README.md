@@ -1,6 +1,6 @@
 # Risk-factors-of-Diabetes
 Problem Statement :<br>
-Findind the risk factors of Diabetes<br>
+Finding the risk factors of Diabetes<br>
 Creating subgroups(clusters) and analysing the impact of each varible by using <br>
 <b>1) Centroid’s sub-optimal position <b>,<br>
 <b>2) SHAP values <b>
